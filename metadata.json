@@ -1,0 +1,8 @@
+{
+  "name": "Marathi Setu - AI Voice Bridge",
+  "description": "Translate and explain any text in Marathi with high-quality AI voice synthesis and detailed explanations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
